@@ -14,4 +14,7 @@
 
 *~
 
+a.exe
+*.stackdump
+*.gch
 a.out
