@@ -20,8 +20,8 @@ int main()
 
     Sales_item item;
 
-    item.same_isbn(null_book);
-    item.same_isbn(cin);
+    // item.same_isbn(null_book);
+    // item.same_isbn(cin);
 
     return 0;
 }
